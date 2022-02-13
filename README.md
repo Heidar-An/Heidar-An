@@ -6,6 +6,7 @@
 - Occasionally, I have fun with **quantum computing** and **functional programming**.
 
 🔗**Links**
+
 [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15376837/heidar-an?tab=profile "Stack Overflow")
 
 
