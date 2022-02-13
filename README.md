@@ -1,5 +1,14 @@
 <h2>Hi, I'm Heidar </h2>
 
+🖥️**Skills**
+- My best technologies are **Python**, **JavaScript** and **Java**; with a moderate amount of knowledge about **C/C++** and **C#**
+- I'm currently experimenting with low level assembly.
+- Occasionally, I have fun with **quantum computing** and **functional programming**.
+
+**Links**
+
+[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15376837 "Stack Overflow")
+
 <!--
 **Heidar-An/Heidar-An** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
