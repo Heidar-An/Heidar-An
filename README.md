@@ -12,7 +12,7 @@
 📊**Statistics**
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align = "center" src="https://github-readme-stats.vercel.app/api?username=Heidar-An&hide_rank=true&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&line_height=20&disable_animations=true">
+    <img align = "center" src="https://github-readme-stats.vercel.app/api?username=Heidar-An&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&line_height=20&disable_animations=true">
   </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heidar-An&layout=compact">
