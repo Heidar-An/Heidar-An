@@ -1,4 +1,6 @@
 <h2>Hi, I'm Heidar </h2>
+👋**Introduction**
+- I'm a 17 year old developer currently studying Maths, Further Maths and Computer Science at Sixth form. Hoping to make my university offer for entry in October 2022.
 
 🖥️**Skills**
 - My best technologies are **Python**, **JavaScript** and **Java**; with a moderate amount of knowledge with **C, C++** and **C#**
