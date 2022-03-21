@@ -7,6 +7,7 @@ I'm a 17 year old developer currently studying Maths, Further Maths and Computer
 
 🖥️**Skills**
 - My best technologies are **Python**, **JavaScript** and **Java**; with a moderate amount of knowledge with **C, C++** and **C#**
+- I like to think I know about AI.
 - I'm currently experimenting with low level assembly and some game design.
 - Occasionally, I have fun with **quantum computing** and **functional programming**.
 
