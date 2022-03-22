@@ -1,5 +1,5 @@
 <h2>Hi, I'm Heidar </h2>
-
+![](https://komarev.com/ghpvc/?username=Heidar-An)
 👋**Introduction**
 <br>
 I'm a 17 year old developer currently studying Maths, Further Maths and Computer Science at Sixth form. Hoping to make my university offer for entry in October 2022.
