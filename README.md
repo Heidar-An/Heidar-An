@@ -1,5 +1,6 @@
 <h2>Hi, I'm Ben Ahmed </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Heidar-An&label=Views&color=blue&style=plastic" alt="ViewCounter" /> </p>
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 👋**Introduction**
 <br>
