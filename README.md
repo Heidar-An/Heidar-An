@@ -1,8 +1,6 @@
 <h2>Hi, I'm Ben Ahmed </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Heidar-An&label=Views&color=blue&style=plastic" alt="ViewCounter" /> </p>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
 👋**Introduction**
 <br>
 I'm a 17 year old developer currently studying Maths, Further Maths and Computer Science at Sixth form. Hoping to make my university offer for entry in October 2022.
