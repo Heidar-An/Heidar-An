@@ -3,7 +3,7 @@
 
 👋**Introduction**
 <br>
-I'm a 17 year old developer currently studying Maths, Further Maths and Computer Science at Sixth form. Hoping to make my university offer for entry in October 2022.
+Computer Science BA (Hons) undergraduate at the University of Cambridge (King's College).
 <br>
 
 🖥️**Skills**
