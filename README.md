@@ -12,9 +12,11 @@ Computer Science BA (Hons) undergraduate at the University of Cambridge (King's 
 - I'm currently experimenting with low level assembly and functional programming.
 - In the past, I have had fun with **quantum computing**.
 
+<!--
 🔗**Links**
 
 [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15376837/heidar-an?tab=profile "Stack Overflow")
+--!>
 
 <!-- 📊**Statistics**
 <br>
