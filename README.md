@@ -7,10 +7,10 @@ Computer Science BA (Hons) undergraduate at the University of Cambridge (King's 
 <br>
 
 🖥️**Skills**
-- My best technologies are **Python**, **JavaScript** and **Java**; with a moderate amount of knowledge with **C, C++** and **C#**
+- My best technologies are **Python** and **Java**; with a moderate amount of knowledge with **C, C++** and **C#**; currently learning "Rust".
 - I like to think I know about AI.
-- I'm currently experimenting with low level assembly and some game design.
-- Occasionally, I have fun with **quantum computing** and **functional programming**.
+- I'm currently experimenting with low level assembly and functional programming.
+- In the past, I have had fun with **quantum computing**.
 
 🔗**Links**
 
