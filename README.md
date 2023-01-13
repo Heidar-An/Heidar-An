@@ -3,14 +3,12 @@
 
 👋**Introduction**
 <br>
-Computer Science BA (Hons) undergraduate at the University of Cambridge (King's College).
+Computer Science undergraduate.
 <br>
 
 🖥️**Skills**
-- My best technologies are **Python** and **Java**; with a moderate amount of knowledge with **C, C++** and **C#**; currently learning "Rust".
-- I like to think I know about AI.
-- I'm currently experimenting with low level assembly and functional programming.
-- In the past, I have had fun with **quantum computing**.
+- While I know other languages, I would describe myself as a **Pythonista** trying to become a **Rustacean**
+- Currently exploring ML. 
 
 <!--
 🔗**Links**
