@@ -3,7 +3,7 @@
 
 👋**Introduction**
 <br>
-Computer Science undergraduate.
+Computer Science 2nd year undergraduate.
 <br>
 Personal Website : [Soon to made]
 <br>
