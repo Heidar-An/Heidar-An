@@ -10,7 +10,8 @@ Personal Website : [Soon to made]
 
 🖥️**Skills**
 - While I know other languages, I would describe myself as a **Pythonista** trying to become a **Rustacean**
-- Currently exploring ML. 
+- Recent found interests: TypeScript, Flutter/Dart, React
+- 🔭 Currently exploring ML. 
 
 <!--
 🔗**Links**
