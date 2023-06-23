@@ -1,15 +1,12 @@
-<h2>Hello World! </h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Heidar-An&label=Views&color=blue&style=plastic" alt="ViewCounter" /> </p>
 
-<br>
-Computer Science 2nd year undergraduate.
-<br>
-Personal Website : [Soon to made]
-<br>
 
-While I know other languages, I would describe myself as a **Pythonista** trying to become a **Rustacean**
-Recent found interests: TypeScript, Flutter/Dart, React
-Currently exploring ML. 
+- Computer Science 2nd year undergraduate.
+
+- Personal Website : [Soon to made]
+
+- Trying to become a **Rustacean** and exploring ML
 
 <!--
 🔗**Links**
