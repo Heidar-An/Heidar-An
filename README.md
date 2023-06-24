@@ -1,12 +1,15 @@
 
+<div align="center">
+<h1> Hello World :wave: </h1>
+</div>
+<h3>I'm: </h3> 
+
+- A 2nd year CS student 🎓 
+- Becoming a Rustacean 🦀
+- Exploring ML 🤖
+- Messing around with Flutter & React 📱 / 💻
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Heidar-An&label=Views&color=blue&style=plastic" alt="ViewCounter" /> </p>
-
-
-- Computer Science 2nd year undergraduate.
-
-- Personal Website : [Soon to made]
-
-- Trying to become a **Rustacean** and exploring ML
 
 <!--
 🔗**Links**
