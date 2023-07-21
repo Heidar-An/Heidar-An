@@ -1,9 +1,11 @@
 
 <div align="center">
-<h1> Hello World :wave: </h1>
+<h3> Hello World :wave: </h3>
+
+I like ML, Rust, AppDev, GameDev. (sometimes together)
 </div>
-I like ML, Rust, AppDev, GameDev.
-  
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Heidar-An&label=Views&color=blue&style=plastic" alt="ViewCounter" /> </p>
 
 <!--
