@@ -1,6 +1,6 @@
 
 <div align="center">
-<h3> Hello World :wave: </h3>
+<h3> Hi :wave: </h3>
 
 I like ML, Rust, AppDev, GameDev. (sometimes together)
 </div>
